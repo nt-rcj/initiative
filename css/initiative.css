@@ -29,7 +29,7 @@ body { background: #eeeeee; }
 
 #home {
    align-items: center;
-   background: #161415 url(../images/about-us_head.jpg) no-repeat;
+   background: #161415 url(../images/initiative_head.png) no-repeat;
    background-position: 50% 50%;
    background-size: cover;
    display: flex;
