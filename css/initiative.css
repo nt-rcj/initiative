@@ -116,7 +116,7 @@ body { background: #eeeeee; }
 }
 
 .card {
-　background: url(../images/gd.jpg) center center no-repeat;  padding: 30px;
+  background-color: #fff;
   position: relative;
   box-shadow: 0 0 5px rgba(75, 75, 75, .07);
   z-index: 1;
